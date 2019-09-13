@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Height of each list item -->
+	<dimen name="list_item_height">88dp</dimen>
+	<!-- Width of each list item image -->
+	<dimen name="list_image_width">88dp</dimen>
+	<!-- Size of square list item icon -->
+	<dimen name="list_icon_size">24dp</dimen>
+</resources>
